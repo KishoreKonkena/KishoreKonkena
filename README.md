@@ -47,15 +47,20 @@ I love building **end-to-end data-driven solutions** — from data pipelines to 
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KishoreKonkena&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreKonkena&layout=compact&theme=radical" height="180"/>
+</p>
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/ML-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge&logo=graph&logoColor=blue)
+
 
 
 ---
@@ -73,7 +78,7 @@ I love building **end-to-end data-driven solutions** — from data pipelines to 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kishore-konkena"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-kirshore2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kirshore2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/KishoreKonkena"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
