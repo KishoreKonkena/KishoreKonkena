@@ -50,10 +50,13 @@ I love building **end-to-end data-driven solutions** — from data pipelines to 
 
 ## 📌 Featured Projects  
 
-- 🏡 **House Price Prediction** – Kaggle Competition | Advanced Regression Techniques  
-- 🌫️ **Air Quality Index (AQI) Analysis** – PCA, Regression, Clustering, SVM  
-- 🔍 **Fake Job Posting Detection** – NLP + ML classification project  
-- 📊 **Interactive Dashboards** – Power BI for business insights  
+- 🌫️ Air Quality Index (AQI) Analysis – PCA, Regression, Clustering, SVM
+
+- 🔍 Fake Job Posting Detection – NLP + ML classification project
+
+- 📊 Interactive Dashboards – Power BI for business insights
+
+- 🎧 Spotify Music Analysis – SQL
 
 ---
 
